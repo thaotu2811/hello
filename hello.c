@@ -11,5 +11,7 @@
 int main(int argc, char ** argv) {
         printf("Tu Nhat Thanh Thao!\n");
         printf("Computer Science\n");
+        printf("Alice Tu\n");
+         printf("Computer Science and Mathematics\n");
         return 0;
 }
